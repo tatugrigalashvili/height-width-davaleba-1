@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+
+.box1 {
+    height:400px;
+    width: 300px;
+    background-color: #2F8141;
+}
+.box2, .box3, .box4 {
+    height:140px;
+    width:571px;
+}
+.box2{
+    background-color: #13513B;
+}
+.box3{
+    background-color: #E624BB;
+}
+.box4{
+    background-color: #55EF0D;
+}
